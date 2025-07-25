@@ -1,86 +1,68 @@
-# 👩‍💻 Gayathri M A
-
-🎓 B.Tech Computer Science Student | 💡 Full Stack Developer | 🤖 AI Enthusiast  
-📍 Thrissur, Kerala, India  
-📫 [gayugayus584@gmail.com](mailto:gayugayus584@gmail.com)  
-🌐 [Portfolio Website](https://portfolio-roan-nine-24.vercel.app/) | [GitHub](https://github.com/Gaya3584) | [LinkedIn](https://www.linkedin.com/in/gayathri-m-a-12a823256/)
+<h1 align="center">Hi there 👋, I'm Gayathri M A</h1>
+<h3 align="center">🚀 CS Undergrad | 👩‍💻 Full Stack Dev | 🤖 AI Explorer</h3>
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate Computer Science student at **FISAT, Angamaly** with a keen interest in **full-stack development** and **artificial intelligence**. I enjoy building impactful projects, coordinating teams, and learning new technologies. With strong academic performance and hands-on experience, I'm excited to keep growing and contributing to the tech community.
-
----
-
-## 🧠 Skills
-
-- **Languages**: Python, Java, JavaScript, C++
-- **Web Technologies**: React.js, Node.js, Express.js, MongoDB
-- **Mobile Development**: Android (Java), iOS (Swift basics)
-- **Tools & Platforms**: Git, GitHub, GitLab, Firebase, AWS
+### 👩‍💻 About Me:
+- 🎓 B.Tech CSE @ FISAT, Angamaly  
+- 💡 Passionate about real-world tech impact  
+- 🧠 Learning AI, DevOps, and backend engineering  
+- ✨ Hackathon enthusiast and team player
 
 ---
 
-## 📚 Education
-
-**B.Tech in Computer Science and Engineering**  
-_Federal Institute of Science and Technology (FISAT), Angamaly_  
-2022 – Present | CGPA: 8.05
-
-**Higher Secondary (PCM + CS)**  
-_Little Flower Convent Girls HSS, Mammiyoor_  
-2019 – 2021 | 99.3%
-
-**High School**  
-_Little Flower Convent Girls HSS, Mammiyoor_  
-2018 – 2019 | 90%
+### 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-m-a-12a823256/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-roan-nine-24.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaya3584)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayugayus584@gmail.com)
 
 ---
 
-## 🛠️ Projects
+### 🛠️ Tech Stack:
 
-| Project | Description | Links |
-|--------|-------------|-------|
-| **FISAT Forge** | Alumni-student mentorship platform | [GitLab](https://gitlab.com/group-42592305/fisat-forge) |
-| **Feel It** | AI-powered music recommender based on user emotions | [Live Site](https://feelit-nu.vercel.app/) |
-| **IEDC FISAT Website** | Contributor to official innovation cell site | [Visit](https://iedc.fisat.ac.in/) |
-| **Shop Management System** | Inventory/order management system | [GitHub](https://github.com/Gaya3584/Shop_Management) |
-| **Tecverso ’24 Portal** | Event registration and management platform | [Live Site](https://tecverso-iedc-fisat.vercel.app/) |
-| **Homemade Heaven** | Handicrafts e-commerce marketplace | [GitHub](https://github.com/Hawk1509/hackathon) |
-
----
-
-## 💼 Trainings & Internships
-
-- **Python Intern** – Lanware Solutions _(May–June 2025)_
-- **Android Development (Java)** – Logix Space Technologies _(Dec 2024)_
-- **iOS Development** – iPlanet Education _(Sep 2023)_
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-## 🏆 Achievements & Certifications
+### 📈 GitHub Stats:
 
-- 🥇 Winner – Nosu AI Hackathon (Beginner Track, 2023)
-- 🥇 Winner – Prompt Engineering Contest (IEEE SB GECBH & LBSITW, 2025)
-- ✅ [React JS – GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/b74185a027344a286b107c9f7cbca2b8.pdf)
-- ✅ [Google AI Essentials – Coursera](https://coursera.org/verify/IUPYJ7SSNL6G)
-- ✅ [Sensors and Actuators – NPTEL](https://nptel.ac.in/noc/courses/112/103/112103281/)
-- ✅ [Full Stack Developer – OneRoadmap](https://oneroadmap.io/skills/fs/certificate/CERT-09C2A78A)
-- ✅ AWS Cloud Fundamentals – Add-on Training
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaya3584&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaya3584&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaya3584&layout=compact&theme=radical" width="45%" />
+</p>
 
 ---
 
-## 🌟 Extra-Curricular & Volunteering
+### 💼 Highlight Projects:
 
-- 🔧 Technical Lead – IEDC FISAT
-- 📢 Coordinator – Tecverso 2024
-- 🎯 Organizer & Volunteer – GENESIS 2025 Hackathon
-- 🎉 Event Team Member – FISAT Horizon Club
-- 💻 Participant – Codedge 4.0 (ACM FISAT)
+| Project | Description | Link |
+|--------|-------------|------|
+| 🎓 FISAT Forge | Alumni-student mentorship platform | [GitLab](https://gitlab.com/group-42592305/fisat-forge) |
+| 🎶 Feel It | Emotion-based music recommender | [Live](https://feelit-nu.vercel.app/) |
+| 🌐 IEDC Website | Contributor to official IEDC FISAT site | [Visit](https://iedc.fisat.ac.in/) |
+| 🛒 Shop Manager | Order/inventory management system | [GitHub](https://github.com/Gaya3584/Shop_Management) |
+| 🎉 Tecverso '24 Portal | Event registration system | [Live](https://tecverso-iedc-fisat.vercel.app/) |
 
 ---
 
-> “Code. Create. Collaborate. Contribute.”
+### 🏆 Achievements
 
+- 🥇 Nosu AI Hackathon – Winner (Beginner Track)
+- 🥇 Prompt Engineering Contest – IEEE SB
+- 📜 [React JS Certification – GFG](https://media.geeksforgeeks.org/courses/certificates/b74185a027344a286b107c9f7cbca2b8.pdf)
+- 📜 [Google AI Essentials – Coursera](https://coursera.org/verify/IUPYJ7SSNL6G)
+
+---
+
+> “Consistency is key. Code every day.” 🚀
 
