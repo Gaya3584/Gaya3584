@@ -1,72 +1,86 @@
-# 👋 Hi, I'm Gayathri M A
+# 👩‍💻 Gayathri M A
 
-🎓 B.Tech in Computer Science & Engineering | [cite_start]Passionate Full Stack Developer with a growing interest in AI [cite: 7] 
-[cite_start]🚀 Currently building full-stack apps using **React + Flask** [cite: 7] 
-[cite_start]📫 Reach me at: [gayugayus584@gmail.com](mailto:gayugayus584@gmail.com) [cite: 6]
-🌐 Portfolio: [GitHub](https://github.com/yourusername) | [cite_start][LinkedIn](https://www.linkedin.com/in/gayathri-m-a-0402b826a/) (Assuming these are the correct links, please replace 'yourusername' with actual GitHub username and add correct LinkedIn URL) [cite: 3]
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![iOS](https://img.shields.io/badge/-iOS-333?style=flat&logo=apple)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
+🎓 B.Tech Computer Science Student | 💡 Full Stack Developer | 🤖 AI Enthusiast  
+📍 Thrissur, Kerala, India  
+📫 [gayugayus584@gmail.com](mailto:gayugayus584@gmail.com)  
+🌐 [Portfolio Website](https://portfolio-roan-nine-24.vercel.app/) | [GitHub](https://github.com/Gaya3584) | [LinkedIn](https://www.linkedin.com/in/gayathri-m-a-12a823256/)
 
 ---
 
-## 🌱 Projects
+## 🚀 About Me
 
-| Project Name | Description | Tech | Links |
-|--------------|-------------|------|-------|
-| **FISAT Forge** | Alumni-student mentorship platform | Full Stack (React, Flask implied from objective) | [cite_start][GitLab](https://gitlab.com/yourgitlablink) (Please replace 'yourgitlablink' with actual GitLab URL) [cite: 15] |
-| **Feel It** | AI music recommender based on emotions | AI/ML, Web (implied) | [cite_start][Live Site](https://yoursite.com/feelit) (Please replace 'yoursite.com/feelit' with actual live site URL) [cite: 15] |
-| **IEDC FISAT Website** | Contributor to the official IEDC website | Web Development | [cite_start][Live Site](https://yoursite.com/iedcfisat) (Please replace 'yoursite.com/iedcfisat' with actual live site URL) [cite: 15] |
-| **Shop Management System** | Inventory and order manager | (Not specified, likely database-driven) | [cite_start][GitHub](https://github.com/yourusername/shop-management-system) (Please replace 'yourusername' with actual GitHub username) [cite: 16] |
-| **Tecverso '24** | IEDC event portal | Web Development | [cite_start][Live Site](https://yoursite.com/tecverso24) (Please replace 'yoursite.com/tecverso24' with actual live site URL) [cite: 16] |
-| **Homemade Heaven** | Handicrafts marketplace | (Not specified, likely full-stack) | [cite_start][GitHub](https://github.com/yourusername/homemade-heaven) (Please replace 'yourusername' with actual GitHub username) [cite: 17] |
+I'm a passionate Computer Science student at **FISAT, Angamaly** with a keen interest in **full-stack development** and **artificial intelligence**. I enjoy building impactful projects, coordinating teams, and learning new technologies. With strong academic performance and hands-on experience, I'm excited to keep growing and contributing to the tech community.
+
+---
+
+## 🧠 Skills
+
+- **Languages**: Python, Java, JavaScript, C++
+- **Web Technologies**: React.js, Node.js, Express.js, MongoDB
+- **Mobile Development**: Android (Java), iOS (Swift basics)
+- **Tools & Platforms**: Git, GitHub, GitLab, Firebase, AWS
+
+---
+
+## 📚 Education
+
+**B.Tech in Computer Science and Engineering**  
+_Federal Institute of Science and Technology (FISAT), Angamaly_  
+2022 – Present | CGPA: 8.05
+
+**Higher Secondary (PCM + CS)**  
+_Little Flower Convent Girls HSS, Mammiyoor_  
+2019 – 2021 | 99.3%
+
+**High School**  
+_Little Flower Convent Girls HSS, Mammiyoor_  
+2018 – 2019 | 90%
+
+---
+
+## 🛠️ Projects
+
+| Project | Description | Links |
+|--------|-------------|-------|
+| **FISAT Forge** | Alumni-student mentorship platform | [GitLab](https://gitlab.com/group-42592305/fisat-forge) |
+| **Feel It** | AI-powered music recommender based on user emotions | [Live Site](https://feelit-nu.vercel.app/) |
+| **IEDC FISAT Website** | Contributor to official innovation cell site | [Visit](https://iedc.fisat.ac.in/) |
+| **Shop Management System** | Inventory/order management system | [GitHub](https://github.com/Gaya3584/Shop_Management) |
+| **Tecverso ’24 Portal** | Event registration and management platform | [Live Site](https://tecverso-iedc-fisat.vercel.app/) |
+| **Homemade Heaven** | Handicrafts e-commerce marketplace | [GitHub](https://github.com/Hawk1509/hackathon) |
+
+---
+
+## 💼 Trainings & Internships
+
+- **Python Intern** – Lanware Solutions _(May–June 2025)_
+- **Android Development (Java)** – Logix Space Technologies _(Dec 2024)_
+- **iOS Development** – iPlanet Education _(Sep 2023)_
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-* [cite_start]**Winner** - Nosu AI Hackathon (Beginner Track, 2023) [cite: 25]
-* [cite_start]**Winner** - Prompt Engineering Contest (IEEE SB GECBH & LBSITW, 2025) [cite: 26]
-* [cite_start]**React JS Certification** - GeeksforGeeks [cite: 26]
-* [cite_start]**Google AI Essentials** - Coursera Certificate [cite: 27]
-* [cite_start]**Sensors and Actuators** - NPTEL Jan-Apr 2025 (ID: NPTEL25EE76S645000801) [cite: 28]
-* [cite_start]**Full Stack Developer** - One Roadmap Certificate [cite: 29]
-* [cite_start]**AWS Cloud Fundamentals** - Add-on Course [cite: 30]
+- 🥇 Winner – Nosu AI Hackathon (Beginner Track, 2023)
+- 🥇 Winner – Prompt Engineering Contest (IEEE SB GECBH & LBSITW, 2025)
+- ✅ [React JS – GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/b74185a027344a286b107c9f7cbca2b8.pdf)
+- ✅ [Google AI Essentials – Coursera](https://coursera.org/verify/IUPYJ7SSNL6G)
+- ✅ [Sensors and Actuators – NPTEL](https://nptel.ac.in/noc/courses/112/103/112103281/)
+- ✅ [Full Stack Developer – OneRoadmap](https://oneroadmap.io/skills/fs/certificate/CERT-09C2A78A)
+- ✅ AWS Cloud Fundamentals – Add-on Training
 
 ---
 
-## 🚀 Experience & Leadership
+## 🌟 Extra-Curricular & Volunteering
 
-* [cite_start]**Technical Lead** - IEDC FISAT [cite: 19]
-* [cite_start]**Event Coordinator** - Tecverso 2024 [cite: 20]
-* [cite_start]**Python Intern** - Lanware Solutions (May-June 2025) [cite: 13]
-* [cite_start]**Android App Dev** (Java) - Logix Space Technologies (Dec 2024) [cite: 12]
-* [cite_start]**iOS App Dev** - iPlanet Education (Sep 2023) [cite: 12]
-* [cite_start]**Organizer & Volunteer** - GENESIS 2025, Hackathon at FISAT [cite: 23]
-* [cite_start]**Event Team Member** - FISAT Horizon Club (FHC) [cite: 21]
-* [cite_start]**Participant** - Codedge 4.0, ACM FISAT (2023) [cite: 22]
+- 🔧 Technical Lead – IEDC FISAT
+- 📢 Coordinator – Tecverso 2024
+- 🎯 Organizer & Volunteer – GENESIS 2025 Hackathon
+- 🎉 Event Team Member – FISAT Horizon Club
+- 💻 Participant – Codedge 4.0 (ACM FISAT)
 
 ---
 
-## 📈 GitHub Stats
+> “Code. Create. Collaborate. Contribute.”
 
-![Gayathri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
----
-
-## ⚡ Fun Fact
-> I love teaching others while learning — it helps me grow faster 💡
